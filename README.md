@@ -41,7 +41,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time I play on the computer.
+- :zap: In my free time I play computer games.
 
 ---
 
